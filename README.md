@@ -93,4 +93,4 @@ Many beginner programmers struggle to identify simple but common coding mistakes
 
 ---
 
-*Spring 2026 — OOP Project | FAST NUCES*
+*Spring 2026 — OOP Project | Sukkur IBA University*
