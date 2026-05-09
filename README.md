@@ -74,7 +74,7 @@ Many beginner programmers struggle to identify simple but common coding mistakes
 
 ## 🎥 Demo Video
 
-📺 [Watch the Demo on Google Drive](https://drive.google.com/drive/folders/1dGrMyV5a2_bq4xJtIYd3ItnZQLQ0AYX4?usp=drive_link)
+📺 [Watch the Demo on Google Drive][(https://drive.google.com/drive/folders/1dGrMyV5a2_bq4xJtIYd3ItnZQLQ0AYX4?usp=drive_link)](https://drive.google.com/file/d/1OWSptt0uiODlPOhdU748gJuqCifuGAR2/view?usp=sharing)
 
 ---
 
